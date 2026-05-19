@@ -1,4 +1,4 @@
-# Hi, I'm Shrushti Salunke 👋
+# Hi, I'm Shrushti Salunke.
 
 🧬 Bioinformatician based in Pune, India  
 💻 Working in consumer genomics, variant interpretation, and genomic data analysis  
