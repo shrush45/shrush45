@@ -79,6 +79,5 @@ MES Abasaheb Garware College, Pune (2018–2021)
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shrushti-salunke-891791197
-- GitHub: https://github.com/shrush45
 - Portfolio: https://shrush45.github.io/
 - Email: shrushtisalunke910@gmail.com
