@@ -67,12 +67,11 @@ MES Abasaheb Garware College, Pune (2018–2021)
 
 ## Areas of Interest
 
-- Bioinformatics
-- Genomics
-- Machine Learning
+- Structural bioinformatics
+- Genomics/Consumer genomics
+- ML/DL/AI
 - Variant Interpretation
 - Immunoinformatics
-- Consumer Genomics
 
 ---
 
